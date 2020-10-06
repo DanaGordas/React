@@ -6,7 +6,6 @@ This is my personal sandbox containing small projects that will help me learn th
 * Build simple React apps to practice the above concepts. 
 
 ## Resources used:
-* http://github.com - automatic!
-[GitHub](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/)
-* http://github.com - automatic!
-[GitHub](https://www.taniarascia.com/getting-started-with-react/)
+* [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/)
+* [Getting Started With React](https://www.taniarascia.com/getting-started-with-react/)
+* [ReactJS Documentation](https://reactjs.org/)
